@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jayden 👋
+### Junior Full-Stack Developer
 
-<!--
-**Killingit-300/Killingit-300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📍 Based in Indiana
+- 💻 Currently finishing my diploma via **Graduation Alliance** 🎓
+- 🚀 Working with **Node.js, Express, and EJS**
+- 🛠️ Managing my own **Linux VPS** for deployment
 
-Here are some ideas to get you started:
+### ⚡ Tech Stack
+Node.js
+JavaScript
+Express.js
+Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*Building from the ground up. Check out my repositories below!*
+
