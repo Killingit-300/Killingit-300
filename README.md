@@ -6,12 +6,6 @@
 - 🚀 Working with **Node.js, Express, and EJS**
 - 🛠️ Managing my own **Linux VPS** for deployment
 
-### ⚡ Tech Stack
-Node.js
-JavaScript
-Express.js
-Linux
-
 ---
 *Building from the ground up. Check out my repositories below!*
 
